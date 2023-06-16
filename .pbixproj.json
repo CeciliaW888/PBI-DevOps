@@ -11,7 +11,7 @@
         "authentication": {
           "type": "ServicePrincipal",
           "tenantId": "pbitools.org",
-          "clientId": "d3ab932a-f6dc-4a2e-b04d-a3f5a063394b", // Service Principal of Azure AD app
+          "clientId": "d3ab932a-f6dc-4a2e-b04d-a3f5a063394b", 
           "clientSecret": "%PBI_CLIENT_SECRET%"
         },
         "options": {
